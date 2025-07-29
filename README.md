@@ -25,15 +25,15 @@ Conecta el desarrollo personal con el apoyo social, haciendo del progreso una ex
 Stack: Flutter, Firebase, UI colaborativa y notificaciones inteligentes.
 
 ---
-🌱 Aprendizaje actual
+## 🌱 Aprendizaje actual
 
-🐍 Python intermedio-avanzado
+🐍 **Python intermedio-avanzado**
 Mejorando mis habilidades para escribir código más limpio, modular y eficiente.
 
-🔗 Integración de APIs externas & automatización multi-herramienta
+🔗 **Integración de APIs externas & automatización multi-herramienta**
 Profundizando en conectar distintos servicios (Notion, Telegram, Google APIs) para crear flujos automatizados complejos usando herramientas low-code/no-code como n8n y desarrollos propios.
 
-🛠️ Buenas prácticas y arquitectura de software
+🛠️ **Buenas prácticas y arquitectura de software**
 Estudiando patrones de diseño, arquitectura limpia y metodologías ágiles para construir software mantenible y escalable.
 
 ## 🌍 Más sobre mí
