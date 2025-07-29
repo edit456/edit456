@@ -12,7 +12,7 @@ Desarrollador de aplicaciones multiplataforma fan del código limpio y los retos
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edit456&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edit456&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 📫 Conecta conmigo
 - 📧 carlospeditacionts@gmail.com
