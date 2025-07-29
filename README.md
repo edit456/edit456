@@ -6,7 +6,7 @@ Desarrollador de aplicaciones multiplataforma. Me especializo en crear herramien
 
 ## 🧠 Sobre mí
 
-Trabajo desde una filosofía clara: escribir código limpio, optimizado y útil. Me considero autodidacta, creativo y práctico. Siempre busco aprender más, pero también aplicar lo que sé de forma efectiva. No busco reinventar la rueda, sino hacer que gire mejor.
+Trabajo desde una filosofía clara: escribir código limpio, optimizado y útil. Soy autodidacta y me considero creativo y práctico. Siempre busco aprender más, pero también aplicar lo que sé de forma efectiva. No busco reinventar la rueda, sino hacer que gire mejor.
 
 ---
 
