@@ -1,18 +1,49 @@
-# 👋 ¡Hola!
+# 👋 ¡Hola! Soy edit456
 
-Desarrollador de aplicaciones multiplataforma fan del código limpio y los retos.
+🎯 Desarrollador especializado en automatización, apps móviles y desarrollo backend con enfoque práctico y eficiente.
 
-## 🛠️ Tecnologías que uso
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![n8n](https://img.shields.io/badge/-n8n-ef683c?logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+---
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edit456&show_icons=true&theme=tokyonight&count_private=true)
+## 🚀 Tecnologías que uso
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-EF683C?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
+## 📱 Proyectos destacados
+
+✨ **App de automatización con n8n**  
+Sistema completo de automatización de tareas usando n8n + Python + Firebase.
+
+📱 **Aplicación móvil Flutter X**  
+App multiplataforma desarrollada con Flutter y backend en Firebase.
+
+🔧 **Integraciones low-code**  
+Integración de APIs y automatización de flujos entre servicios como Notion, Gmail y Telegram.
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- 🔧 DevOps y CI/CD con GitHub Actions
+- 🔐 Seguridad en aplicaciones móviles
+- ☁️ Despliegue en Firebase y Vercel
+
+---
 
 ## 📫 Conecta conmigo
-- 📧 carlospeditacionts@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/tu-nombre/)  
+- 📧 tu.email@ejemplo.com
+
+---
+
+<sub>🎨 Este perfil está hecho a mano con cariño y muchas automatizaciones.</sub>
