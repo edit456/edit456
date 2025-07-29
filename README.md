@@ -1,49 +1,46 @@
-# 👋 ¡Hola! Soy edit456
+# 👋 Soy Carlos Hernandez Olmedo (Carlos HO)
 
-🎯 Desarrollador especializado en automatización, apps móviles y desarrollo backend con enfoque práctico y eficiente.
-
----
-
-## 🚀 Tecnologías que uso
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/n8n-EF683C?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+Desarrollador de aplicaciones multiplataforma. Me especializo en crear herramientas digitales que mejoran la vida diaria: automatizan lo repetitivo, simplifican lo complejo y convierten ideas en soluciones funcionales.
 
 ---
 
-## 📱 Proyectos destacados
+## 🧠 Sobre mí
 
-✨ **App de automatización con n8n**  
-Sistema completo de automatización de tareas usando n8n + Python + Firebase.
-
-📱 **Aplicación móvil Flutter X**  
-App multiplataforma desarrollada con Flutter y backend en Firebase.
-
-🔧 **Integraciones low-code**  
-Integración de APIs y automatización de flujos entre servicios como Notion, Gmail y Telegram.
+Trabajo desde una filosofía clara: escribir código limpio, optimizado y útil. Me considero autodidacta, creativo y práctico. Siempre busco aprender más, pero también aplicar lo que sé de forma efectiva. No busco reinventar la rueda, sino hacer que gire mejor.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🚀 ¿Qué hago?
 
-- 🔧 DevOps y CI/CD con GitHub Actions
-- 🔐 Seguridad en aplicaciones móviles
-- ☁️ Despliegue en Firebase y Vercel
+- **Construyo apps móviles** con Flutter y Firebase que se ven bien y funcionan mejor.
+- **Automatizo flujos** usando n8n.
+- **Creo scripts** en Python para resolver tareas repetitivas o pesadas
+---
+
+## ✨ Proyecto en foco
+
+### Habitat  
+Una app para crear y compartir hábitos entre amigos.  
+Conecta el desarrollo personal con el apoyo social, haciendo del progreso una experiencia compartida.  
+Stack: Flutter, Firebase, UI colaborativa y notificaciones inteligentes.
+
+---
+🌱 Aprendizaje actual
+
+🐍 Python intermedio-avanzado
+Mejorando mis habilidades para escribir código más limpio, modular y eficiente.
+
+🔗 Integración de APIs externas & automatización multi-herramienta
+Profundizando en conectar distintos servicios (Notion, Telegram, Google APIs) para crear flujos automatizados complejos usando herramientas low-code/no-code como n8n y desarrollos propios.
+
+🛠️ Buenas prácticas y arquitectura de software
+Estudiando patrones de diseño, arquitectura limpia y metodologías ágiles para construir software mantenible y escalable.
+
+## 🌍 Más sobre mí
+
+- Portafolio: [https://carlosho.es](https://carlosho.es)  
+- Abierto a colaboraciones, ideas útiles y proyectos bien pensados
 
 ---
 
-## 📫 Conecta conmigo
-
-- [LinkedIn](https://www.linkedin.com/in/tu-nombre/)  
-- 📧 tu.email@ejemplo.com
-
----
-
-<sub>🎨 Este perfil está hecho a mano con cariño y muchas automatizaciones.</sub>
+> 💬 *"No programo solo código, programo soluciones."*
