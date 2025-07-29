@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Carlos Hernández Olmedo
+# 👋 ¡Hola!
 
 Desarrollador de aplicaciones multiplataforma fan del código limpio y los retos.
 
