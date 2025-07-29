@@ -22,7 +22,7 @@ Trabajo desde una filosofía clara: escribir código limpio, optimizado y útil.
 ### Habitat  
 Una app para crear y compartir hábitos entre amigos.  
 Conecta el desarrollo personal con el apoyo social, haciendo del progreso una experiencia compartida.  
-Stack: Flutter, Firebase, UI colaborativa y notificaciones inteligentes.
+Stack: Flutter, Firebase, UI colaborativa.
 
 ---
 ## 🌱 Aprendizaje actual
