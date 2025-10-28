@@ -19,11 +19,8 @@ Trabajo desde una filosofía clara: escribir código limpio, optimizado y útil.
 
 ## ✨ Proyecto en foco
 
-### Habitat  
-Una app para crear y compartir hábitos entre amigos.  
-Conecta el desarrollo personal con el apoyo social, haciendo del progreso una experiencia compartida.  
-Stack: Flutter, Firebase, UI colaborativa.
-
+### 10 Apps antes de terminar el 2025 
+proyectos propios con monetizacion mediante ads
 ---
 ## 🌱 Aprendizaje actual
 
